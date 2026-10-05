@@ -1,5 +1,3 @@
-## Screenshots
-![Dashboard](docs/dashboard.png)
 
 ## PRPLW methodology
 1. The user ranks N evaluation parameters (1 = most important).
